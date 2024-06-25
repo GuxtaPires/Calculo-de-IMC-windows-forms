@@ -1,0 +1,17 @@
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.Form1.resources
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.csproj.GenerateResource.cache
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.AssemblyInfoInputs.cache
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.AssemblyInfo.cs
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.sourcelink.json
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\bin\Debug\net8.0-windows\Calculo_imc.exe
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\bin\Debug\net8.0-windows\Calculo_imc.deps.json
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\bin\Debug\net8.0-windows\Calculo_imc.runtimeconfig.json
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\bin\Debug\net8.0-windows\Calculo_imc.dll
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\bin\Debug\net8.0-windows\Calculo_imc.pdb
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.dll
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\refint\Calculo_imc.dll
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.pdb
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\Calculo_imc.genruntimeconfig.cache
+C:\Users\Gustavo Pires\source\repos\Calculo_imc\Calculo_imc\obj\Debug\net8.0-windows\ref\Calculo_imc.dll
