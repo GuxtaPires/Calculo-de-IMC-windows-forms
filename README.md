@@ -1,7 +1,8 @@
-# IMC Calc
+# IMC Calculator
 ## Calcule seu indice de massa corporal!
 
-Neste projeto, desenvolvi uma interface para calculo de Indice de Massa Corporal (IMC) do usuário. Ele deve apenas informar seu peso e altura, para dar o diagnostico!
+Neste projeto, desenvolvi uma interface para calculo de Indice de Massa Corporal (IMC) do usuário. 
+Ele deve apenas informar seu peso e altura, para dar o diagnostico!
 Utilizei uma tabela para cálculo que segue a seguinte classificação:
 - IMC Menor que 16 = Magreza grave;
 - IMC entre 16 e 16,9 = Magreza Moderada;
